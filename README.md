@@ -10,7 +10,7 @@ görmeyi bekliyordum, "webadmin" isimli bir dir karşıma geldi, url kısmına w
 
 Soru 2 - Dikkatli incelersen cevabı bulabilirsin. 
 
-İlk soruda sayfa kaynağına baktığımda buldum, kendi kendime ilk olaradan başlıyım dedim ve karşıma " <!-- Buraya baktığın iyi oldu : 87habythi15ng151.php dosyasını bir incele. -->"
+İlk soruda sayfa kaynağına baktığımda buldum, kendi kendime ilk olaradan başlıyım dedim ve karşıma " Buraya baktığın iyi oldu : 87habythi15ng151.php dosyasını bir incele."
 çıktı. Hemen bu url gittim ve bana bir algoritma verdi, şahsen yazılımcı olduğum için uzmanı olduğum c# dilinde kodladım, ve flag hemen karşıma geldi.
 
 Sınavda herkese başarılar, saygılarımla.
